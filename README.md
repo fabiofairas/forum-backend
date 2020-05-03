@@ -1,5 +1,5 @@
 # Introduction 
-forum-backend: api rest para entregação frontend
+forum-backend: Api Rest
 
 # Getting Started
 1. Visual Studio 2019 com .Net Core 3.1
